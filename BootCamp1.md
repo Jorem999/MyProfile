@@ -11,7 +11,8 @@
 [] Crear CV
 
 # Tabla
-|Nombre   |Contenido   | Descipción|
-|---------|------------|-----------|
-|ls|ls \<opcion\>|el dir de Windows|
-|Algo|Contenido|Descripción|
+|Nombre   | Descipción|
+|---------|-----------|
+|ls|el dir de Windows|
+|whatis|para que sirve un comando|
+|
