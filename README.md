@@ -6,7 +6,7 @@
 
 #### I know
 
-- Visual Foxpro
+- Visual Foxpro (Have a ERP)
 - Some Java
 
 #### Studing
